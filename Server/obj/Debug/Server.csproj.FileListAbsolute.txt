@@ -1,0 +1,11 @@
+D:\08.Upgrade\Code\MultiChat\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\08.Upgrade\Code\MultiChat\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\08.Upgrade\Code\MultiChat\Server\obj\Debug\Server.Properties.Resources.resources
+D:\08.Upgrade\Code\MultiChat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\08.Upgrade\Code\MultiChat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\08.Upgrade\Code\MultiChat\Server\bin\Debug\Server.exe.config
+D:\08.Upgrade\Code\MultiChat\Server\bin\Debug\Server.exe
+D:\08.Upgrade\Code\MultiChat\Server\bin\Debug\Server.pdb
+D:\08.Upgrade\Code\MultiChat\Server\obj\Debug\Server.exe
+D:\08.Upgrade\Code\MultiChat\Server\obj\Debug\Server.pdb
+D:\08.Upgrade\Code\MultiChat\Server\obj\Debug\Server.formServer.resources
